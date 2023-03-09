@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "cinetick",
+    "slug": "cinetick",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

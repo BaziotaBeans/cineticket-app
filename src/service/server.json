@@ -1,0 +1,126 @@
+{
+    "movie": [
+        {
+            "id": 1,
+            "title": "The Batman",
+            "genre": "Action",
+            "image": "https://i.ibb.co/HN3Sp3V/Batman.png",
+            "classification": 8.1,
+            "id_video": "mqqft2x_Aa4",
+            "about": {
+                "id": 1,
+                "imdb_classification": 8.3,
+                "kinopoisk_classification": 7.9,
+                "description": "When the Riddler, a sadistic serial killer, begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+                "certificate": "16+",
+                "runtime": "02:56",
+                "release": 2022,
+                "genre": "Action, Crime, Drama",
+                "Director": "Matt Reeves",
+                "Cast": "Robert Pattinson, Zoë Kravitz, Jeffrey Wright, Colin Farrell, Paul Dano, John Turturro, Andy Serkis, Peter Sarsgaard"
+            }
+        },
+        {
+            "id": 2,
+            "title": "Uncharted",
+            "genre": "Adventure",
+            "image":"https://i.ibb.co/nM1h4qh/Uncharted.jpg",
+            "classification": 7.9,
+            "id_video": "eHp3MbsCbMg",
+            "about": {
+                "id": 1,
+                "imdb_classification": 7.9,
+                "kinopoisk_classification": 7.9,
+                "description": "Street-smart Nathan Drake is recruited by seasoned treasure hunter Victor \"Sully\" Sullivan to recover a fortune amassed by Ferdinand Magellan, and lost 500 years ago by the House of Moncada.",
+                "certificate": "12+",
+                "runtime": "01:56",
+                "release": 2022,
+                "genre": "Action, Adventure",
+                "Director": "Ruben Fleischer",
+                "Cast": "Tom Holland, Mark Wahlberg, Antonio Banderas, Tati Gabrielle, Steven Waddington, Tiernan Jones, Rudy Pankow"
+            }
+        },
+        {
+            "id": 3,
+            "title": "The Exorcism of God",
+            "genre": "Horror",
+            "image": "https://i.ibb.co/nBMTFBd/The-Exorcism-of-God.png",
+            "classification": 5.6,
+            "id_video": "Soxe-QkMd1A",
+            "about": {
+                "id": 1,
+                "imdb_classification": 5.6,
+                "kinopoisk_classification": 5.2,
+                "description": "An American priest working in Mexico is possessed during an exorcism and ends up committing a terrible act. Eighteen years later, the consequences of his sin come back to haunt him, unleashing the greatest battle within.",
+                "certificate": "18+",
+                "runtime": "01:38",
+                "release": 2022,
+                "genre": "Drama, Horror",
+                "Director": "Alejandro Hidalgo",
+                "Cast": "María Gabriela de Faría, Joseph Marcell, Will Beinbrink, Raquel Rojas, Irán Castillo, Christian Rummel, Hector Kotsifakis, Eloisa Maturen, Alfredo Herrera"
+            }
+        },
+        {
+            "id": 4,
+            "title": "Turning Red",
+            "genre": "Comedy",
+            "image": "https://i.ibb.co/47MfC3s/Turning-Red.png",
+            "classification": 7.1,
+            "id_video": "XdKzUbAiswE",
+            "about":{
+                "id": 1,
+                "imdb_classification": 7.1,
+                "kinopoisk_classification": 7.7,
+                "description": "A 13-year-old girl named Meilin turns into a giant red panda whenever she gets too excited.",
+                "certificate": "4+",
+                "runtime": "01:40",
+                "release": 2022,
+                "genre": "Animation, Adventure, Comedy, Family, Fanatasy",
+                "Director": "Domee Shi",
+                "Cast": "Rosalie Chiang, Sandra Oh, Ava Morse, Hyein Park, Maitreyi Ramakrishnan, Orion Lee, Wai Ching Ho, Tristan Allerick Chen, Lori Tan Chinn, Mia Tagano"
+            }
+            
+        },
+        {
+            "id": 5,
+            "title": "Spider-Man: No Way Home",
+            "genre": "Action",
+            "image": "https://i.ibb.co/LJNbG09/Spider-Man.png",
+            "classification": 8.1,
+            "id_video": "JfVOs4VSpmA",
+            "about": {
+                "id": 1,
+                "imdb_classification": 8.1,
+                "kinopoisk_classification": 8.5,
+                "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+                "certificate": "12+",
+                "runtime": "02:28",
+                "release": 2021,
+                "genre": "Action, Adventure, Fanatasy, Sci-Fi",
+                "Director": "Jon Watts",
+                "Cast": "Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon, Jon Favreau, Jamie Foxx, Willem Dafoe, Alfred Molina, Benedict Wong, Marisa Tomei, Andrew Garfield, Tobey Maguire, Angourie Rice"
+            }
+        },
+        {
+            "id": 6,
+            "title": "Morbius",
+            "genre": "Action",
+            "image": "https://i.ibb.co/7NCcNJN/Morbius.png",
+            "classification": 5.3,
+            "id_video": "oZ6iiRrz1SY",
+            "about": {
+                "id": 1,
+                "imdb_classification": 5.1,
+                "kinopoisk_classification": 5.7,
+                "description": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.",
+                "certificate": "12+",
+                "runtime": "01:44",
+                "release": 2022,
+                "genre": "Action, Adventure, Horror, Sci-Fi, Thriller",
+                "Director": "Daniel Espinosa",
+                "Cast": "Jared Leto, Matt Smith, Adria Arjona, Jared Harris, Tyrese Gibson, Al Madrigal, Michael Keaton, Zaris-Angel Hator, Charlie Shotwell, Joe Ferrara, Jason Rennie, Joseph Esson, Christopher Louridas"
+            }
+        }   
+    ]
+    
+}
